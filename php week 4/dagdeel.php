@@ -7,4 +7,5 @@ date(   )
 if($time ) {
     echo "het is ochtend"; 
 
+    
 ?>
